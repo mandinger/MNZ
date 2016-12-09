@@ -1,0 +1,3 @@
+mnz_infomrmatica_homepage:
+    path:     /
+    defaults: { _controller: mnzInfomrmaticaBundle:Default:index }
