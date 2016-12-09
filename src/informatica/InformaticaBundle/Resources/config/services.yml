@@ -1,0 +1,4 @@
+services:
+#    informatica_informatica.example:
+#        class: informatica\InformaticaBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

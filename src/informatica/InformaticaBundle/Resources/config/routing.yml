@@ -1,0 +1,3 @@
+informatica_informatica_homepage:
+    path:     /
+    defaults: { _controller: informaticaInformaticaBundle:Default:index }
